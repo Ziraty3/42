@@ -1,0 +1,5 @@
+char    vide 
+char    block
+char    Fill
+TAILLE = densite
+1 er elem du tableau (TAILLE|.|o|x)
